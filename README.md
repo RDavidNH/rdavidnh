@@ -20,9 +20,6 @@ Par email contact@rdavidnh.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdavidnh&label=Profile%20views&color=0e75b6&style=flat" alt="rdavidnh" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdavidnh&hide=java,html&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdavidnh&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [website]: https://www.rdavidnh.com/
 [twitter]: https://twitter.com/rdavidnh
 [instagram]: https://www.instagram.com/rdavidnh
