@@ -1,6 +1,6 @@
-# [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website] Hi I'm David, a Full-stack Web Designer/Developer • DevOps
+# [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website] Hi I'm David
 
-Je suis un Développeur web / DevOps originaire de Madagascar  
+Je suis développeur web et ingénieur DevOps  
 Passionné par le web et ses opportunités, j'ai acquis une riche expérience de plus de 5 ans grâce à mon parcours professionnel et mes projets personnels
 
 Les évolutions technologiques dans le domaine du cloud computing et du Web Design/Development ont été pour moi une source constante de motivation tout au long de mon parcours, ce qui m'a permis de me plonger dans les aspects fascinants du web et de l'optimisation des processus techniques et opérationnels
